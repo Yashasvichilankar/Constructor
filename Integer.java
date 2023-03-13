@@ -11,6 +11,7 @@ class I
 class IntegerJ extends I
 {
 	int j;
+	
 	void printNum()
 	{
 		super.printNum();
