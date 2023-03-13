@@ -2,6 +2,7 @@
 class I
 {
 	int i;
+	
 	void printNum()
 	{
 		System.out.println(i);
