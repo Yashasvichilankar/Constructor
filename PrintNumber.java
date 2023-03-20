@@ -1,5 +1,6 @@
 
-public class PrintNumber {
+public class PrintNumber 
+{
 void printn(int a)
 {
 	System.out.println("Integer: "+a);
