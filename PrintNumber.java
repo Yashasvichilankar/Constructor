@@ -20,7 +20,8 @@ void printn(double a)
 {
 	System.out.println("Double: "+a);
 }
-public static void main(String[] args) {
+public static void main(String[] args)
+{
 	PrintNumber p1=new PrintNumber();
 	p1.printn(5);
 	p1.printn(2.2);
